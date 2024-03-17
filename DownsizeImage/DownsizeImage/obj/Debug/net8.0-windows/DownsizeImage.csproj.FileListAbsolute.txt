@@ -1,0 +1,17 @@
+E:\paralell\DownsizeImage\DownsizeImage\bin\Debug\net8.0-windows\DownsizeImage.exe
+E:\paralell\DownsizeImage\DownsizeImage\bin\Debug\net8.0-windows\DownsizeImage.deps.json
+E:\paralell\DownsizeImage\DownsizeImage\bin\Debug\net8.0-windows\DownsizeImage.runtimeconfig.json
+E:\paralell\DownsizeImage\DownsizeImage\bin\Debug\net8.0-windows\DownsizeImage.dll
+E:\paralell\DownsizeImage\DownsizeImage\bin\Debug\net8.0-windows\DownsizeImage.pdb
+E:\paralell\DownsizeImage\DownsizeImage\obj\Debug\net8.0-windows\DownsizeImage.Form1.resources
+E:\paralell\DownsizeImage\DownsizeImage\obj\Debug\net8.0-windows\DownsizeImage.csproj.GenerateResource.cache
+E:\paralell\DownsizeImage\DownsizeImage\obj\Debug\net8.0-windows\DownsizeImage.GeneratedMSBuildEditorConfig.editorconfig
+E:\paralell\DownsizeImage\DownsizeImage\obj\Debug\net8.0-windows\DownsizeImage.AssemblyInfoInputs.cache
+E:\paralell\DownsizeImage\DownsizeImage\obj\Debug\net8.0-windows\DownsizeImage.AssemblyInfo.cs
+E:\paralell\DownsizeImage\DownsizeImage\obj\Debug\net8.0-windows\DownsizeImage.csproj.CoreCompileInputs.cache
+E:\paralell\DownsizeImage\DownsizeImage\obj\Debug\net8.0-windows\DownsizeImage.dll
+E:\paralell\DownsizeImage\DownsizeImage\obj\Debug\net8.0-windows\refint\DownsizeImage.dll
+E:\paralell\DownsizeImage\DownsizeImage\obj\Debug\net8.0-windows\DownsizeImage.pdb
+E:\paralell\DownsizeImage\DownsizeImage\obj\Debug\net8.0-windows\DownsizeImage.genruntimeconfig.cache
+E:\paralell\DownsizeImage\DownsizeImage\obj\Debug\net8.0-windows\ref\DownsizeImage.dll
+E:\paralell\DownsizeImage\DownsizeImage\obj\Debug\net8.0-windows\DownsizeImage.Properties.Resources.resources
